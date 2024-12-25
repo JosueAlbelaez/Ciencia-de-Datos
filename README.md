@@ -1,18 +1,7 @@
-# Ciencia-de-Datos
-## Guía Completa de Ciencia de Datos y Machine Learning   
-Este repositorio es una recopilación exhaustiva de conocimientos sobre ciencia de datos y aprendizaje automático (Machine Learning), diseñado tanto para principiantes como para profesionales en la materia. Incluye:  
-- **Capítulos detallados:** Explicaciones claras de conceptos fundamentales, algoritmos, y técnicas avanzadas.  
-- **Resúmenes:** Puntos clave para un aprendizaje rápido y eficiente.  
-- **Preguntas de entrevistas:** Una colección de preguntas frecuentes y desafiantes para prepararte para entrevistas técnicas en ciencia de datos y Machine Learning.  
-- **GLOSARIO CON 100 TÉRMINOS BÁSICOS:** Definiciones concisas de términos esenciales en ciencia de datos, estadísticas y aprendizaje automático.  
-Este repositorio busca ser un recurso útil para el aprendizaje, la preparación profesional y el desarrollo continuo en ciencia de datos.   
-**Cómo contribuir:**  
-Contribuciones son bienvenidas. Puedes sugerir ejemplos, correcciones o nuevos términos al glosario, o sugerir preguntas para la sección de entrevistas.  
-**Licencia:**  
-Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/licenses/MIT).  
+# Guía Completa de Ciencia de Datos y Machine Learning   
+<img src="https://images.pexels.com/photos/414860/pexels-photo-414860.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="CIENCIA DE DATOS IMG" width="500" height="500">
 
-#### ¡Explora, aprende y comparte! 🚀  
-
+Este repositorio es una recopilación exhaustiva de conocimientos sobre ciencia de datos y aprendizaje automático (Machine Learning), ideal para principiantes y profesionales. Incluye **capítulos detallados** con explicaciones claras de conceptos fundamentales, algoritmos y técnicas avanzadas; **resúmenes** con puntos clave para un aprendizaje rápido y eficiente; **preguntas de entrevistas** frecuentes y desafiantes para prepararte para entrevistas técnicas; y un **glosario con 100 términos básicos** que ofrece definiciones concisas sobre ciencia de datos, estadísticas y aprendizaje automático. Este recurso está diseñado para el aprendizaje, la preparación profesional y el desarrollo continuo en el campo. **¡Contribuciones bienvenidas!** Puedes sugerir ejemplos, correcciones o nuevos términos al glosario, así como preguntas para la sección de entrevistas. Disponible bajo la licencia [MIT](https://opensource.org/licenses/MIT). **¡Explora, aprende y comparte!** 🚀
 
 # **INDICE**
 
