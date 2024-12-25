@@ -1950,3 +1950,463 @@ R: El sistema implementa inferencia causal mediante redes neuronales estructurad
 
 **100. ¿Cómo se diseña un sistema de ML que aprenda de múltiples tareas relacionadas de manera eficiente?**
 R: El sistema implementa multi-task learning con parameter sharing adaptativo, utiliza task-specific heads con shared representations, y emplea gradient balancing para prevenir que tareas dominantes afecten el aprendizaje. La arquitectura incluye mecanismos de task routing que determinan qué parámetros compartir entre tareas, técnicas de curriculum learning que optimizan el orden de exposición a diferentes tareas, y métodos de regularización que promueven transferencia positiva mientras previenen interferencia negativa entre tareas.
+
+## GLOSARIO
+
+### Agrupamiento (clustering)
+Es una técnica de aprendizaje no supervisado que se utiliza para agrupar puntos de datos similares en grupos. El objetivo del agrupamiento es encontrar grupos de puntos de datos que estén cerca uno del otro en algún espacio de características.
+
+### Agregación
+También conocida como bootstrap aggregating o bagging, es una técnica de aprendizaje combinado en la que se combinan varios estudiantes débiles (normalmente modelos de alto sesgo y baja varianza) para producir un modelo global fuerte.
+
+### Algoritmo
+Un algoritmo es un conjunto de instrucciones que debe seguir una computadora, típicamente implementadas en código de computadora como Python o SQL. Es esencial para procesar y analizar conjuntos de datos demasiado grandes para que los procese la mente humana.
+
+### Algoritmo ID3
+Un algoritmo para construir un árbol de decisión a partir de un conjunto de datos etiquetados. El algoritmo ID3 funciona seleccionando el atributo que mejor divide los datos en subconjuntos con la menor entropía posible.
+
+### Análisis de componentes principales (PCA)
+Se utiliza para extraer una o más dimensiones que capturen tanto de la variación de datos como sea posible. Esta técnica permite limpiar los datos eliminando las dimensiones de ruido y consolidando las dimensiones altamente correlacionadas.
+
+### Análisis de datos
+Implica convertir problemas de empresa en problemas de datos, y recoger, comprender, limpiar y formatear datos.
+
+### Análisis de redes
+Se refiere al estudio de las redes, que son colecciones de nodos (o vértices) conectados por aristas. El análisis de redes se puede utilizar para estudiar fenómenos como las redes sociales, las redes de transporte y las redes biológicas.
+
+### Anotaciones de tipos
+Una forma de proporcionar información de tipo adicional al código Python. Los tipos son una forma importante de documentación. Las anotaciones de tipos mejoran la legibilidad del código y ayudan a prevenir errores.
+
+### Aprendizaje automático (Machine Learning)
+El proceso de creación y utilización de modelos que se aprenden a partir de los datos. Se utiliza para tareas como la clasificación, la regresión y el agrupamiento.
+
+### Aprendizaje combinado
+Se refiere a la combinación de múltiples modelos de aprendizaje automático para mejorar el rendimiento predictivo.
+
+### Aprendizaje profundo (Deep Learning)
+Es un subcampo del aprendizaje automático que se basa en redes neuronales artificiales con muchas capas. Ha tenido éxito en tareas como el reconocimiento de imágenes, el procesamiento del lenguaje natural y el reconocimiento del habla.
+
+### Aprendizaje no supervisado
+Un tipo de aprendizaje automático en el que no se dispone de datos etiquetados. El objetivo es descubrir patrones en los datos sin guía explícita.
+
+### Aprendizaje online
+Un tipo de aprendizaje automático en el que el modelo necesita ser continuamente ajustado con los datos más recientes.
+
+### Aprendizaje por refuerzo
+Un tipo de aprendizaje automático en el que el modelo aprende a través de la prueba y el error.
+
+### Aprendizaje semisupervisado
+Un tipo de aprendizaje automático en el que solo parte de los datos están etiquetados.
+
+### Aprendizaje supervisado
+Un tipo de aprendizaje automático en el que se dispone de datos etiquetados. El objetivo es aprender una función que mapee las entradas a las salidas.
+
+### Árbol de clasificación
+Un tipo de árbol de decisión que produce resultados categóricos.
+
+### Árbol de decisión
+Un modelo predictivo que utiliza una estructura en árbol para representar una serie de posibles rutas de ramificación y un resultado para cada ruta.
+
+### Árbol de regresión
+Un tipo de árbol de decisión que produce resultados numéricos.
+
+### Atributos
+Las características de los datos que se utilizan para construir un modelo de aprendizaje automático.
+
+### Base de datos
+Una base de datos es una colección organizada de datos, generalmente almacenada y accedida electrónicamente.
+
+### Big Data
+Se define como una cantidad de datos que los métodos informáticos convencionales, como SQL o Excel, no pueden procesar. Se caracteriza por el volumen, la velocidad y la variedad de los datos.
+
+### Bootstrap
+Una técnica de remuestreo estadístico que se utiliza para estimar la distribución de una estadística. Funciona tomando repetidamente muestras con reemplazo del conjunto de datos original.
+
+### Buckets
+Contenedores en los que se agrupan los datos, por ejemplo, en un histograma.
+
+### Cadena
+Las cadenas (strings) son secuencias de caracteres.
+
+### Centralidad
+Una medida de la importancia de un nodo en una red. Existen diferentes medidas, como la centralidad de grado, de intermediación y de vector propio.
+
+### Centralidad de intermediación
+Mide el número de veces que un nodo se encuentra en la ruta más corta entre otros dos nodos de una red.
+
+### Centralidad de vector propio
+Mide la influencia de un nodo en una red, considerando la conexión con otros nodos influyentes.
+
+### Clase
+Una clase es una plantilla para crear objetos. Define los atributos y métodos que tendrán los objetos.
+
+### Clases de datos
+Clases de Python utilizadas para almacenar datos. Son similares a las NamedTuple, pero son mutables.
+
+### Clasificación
+Una tarea de aprendizaje automático supervisado en la que el objetivo es asignar una etiqueta de clase a una entrada.
+
+### Clasificador Naive Bayes
+Un clasificador probabilístico basado en el teorema de Bayes. Se utiliza frecuentemente para tareas de clasificación de texto, como el filtrado de spam.
+
+### Conjunto (Set)
+Una colección no ordenada de elementos únicos.
+
+### Contador
+Una variable utilizada para almacenar un valor numérico. A menudo se utiliza para realizar un seguimiento del número de veces que ocurre un evento.
+
+### Contadores
+Herramientas utilizadas para contar elementos. En Python, el tipo de datos `Counter` cuenta las ocurrencias de elementos en una lista.
+
+### Correlación
+Una medida estadística de la relación entre dos variables. Puede ser positiva, negativa o cero.
+
+### CSV
+Formato de archivo "valores separados por comas", común para almacenar datos tabulares.
+
+### Ciencia de datos (Data Science)
+Un campo interdisciplinario que utiliza métodos científicos, procesos, algoritmos y sistemas para extraer conocimiento e información de datos estructurados y no estructurados. Implica convertir problemas de negocio en problemas de datos, recopilar, comprender, limpiar y formatear datos.
+
+### Datos
+Información recopilada y organizada. Pueden ser numéricos, categóricos o de texto.
+
+### Datos categóricos
+Datos que se pueden agrupar en categorías, como el color del pelo.
+
+### Datos de entrenamiento
+Datos utilizados para entrenar un modelo de aprendizaje automático.
+
+### Datos de prueba
+Datos utilizados para evaluar el rendimiento de un modelo de aprendizaje automático.
+
+### Datos de validación
+Datos utilizados para ajustar los hiperparámetros de un modelo de aprendizaje automático.
+
+### Datos erróneos
+Datos incorrectos o inexactos.
+
+### Datos etiquetados
+Datos etiquetados con una clase o valor objetivo. Por ejemplo, correos etiquetados como "spam" o "no spam".
+
+### Datos no estructurados
+Datos que no se ajustan a un modelo predefinido, como texto libre, imágenes o audio.
+
+### Datos numéricos
+Datos que son numéricos, como la altura, el peso y la edad.
+
+### Datos sin depurar
+Datos que no han sido procesados o limpiados. A menudo contienen errores, valores faltantes o atípicos que deben ser tratados antes de usarlos.
+
+### Descenso de gradiente
+Técnica iterativa de optimización para encontrar el mínimo de una función. Se utiliza para ajustar modelos paramétricos a los datos.
+
+### Descenso de gradiente en lotes
+Calcula el gradiente y da un paso de gradiente basado en todo el conjunto de datos.
+
+### Descenso de gradiente en minilotes
+Calcula el gradiente basado en un "minilote" muestreado del conjunto de datos principal.
+
+### Descenso de gradiente estocástico
+Da pasos de gradiente basados en un ejemplo de entrenamiento a la vez.
+
+### Desviación estándar
+Medida de dispersión de los datos. Es la raíz cuadrada de la varianza.
+
+### Diccionario
+Estructura de datos en Python que asocia claves con valores. Las claves pueden ser inmutables como cadenas, números o tuplas.
+
+### Distancia euclidiana
+Medida de la distancia entre dos puntos en un espacio euclidiano. Se calcula como la raíz cuadrada de la suma de las diferencias cuadradas entre las coordenadas de los dos puntos.
+
+### Dominio
+El conjunto de todas las posibles entradas de una función.
+
+### Empaquetado de bootstrap
+
+El empaquetado de bootstrap es una técnica de aprendizaje automático que implica la creación de varios modelos a partir de muestras de bootstrap de los datos de entrenamiento.
+
+### Entropía
+
+La entropía es una medida de incertidumbre. Se utiliza en los árboles de decisión para medir la incertidumbre asociada a un conjunto de datos.
+
+### Error de tipo
+
+Un error de tipo se produce cuando se intenta realizar una operación en un tipo de datos que no es compatible con esa operación.
+
+### Espacio de muchas dimensiones
+
+Un espacio de muchas dimensiones es un espacio que tiene más de tres dimensiones. La maldición de la dimensionalidad se refiere al hecho de que los espacios de muchas dimensiones son inmensos. Los puntos en los espacios con muchas dimensiones tienden a no estar en absoluto cerca unos de otros.
+
+### Estadística
+
+La estadística es una rama de las matemáticas que se ocupa de la recopilación, el análisis, la interpretación y la presentación de datos.
+
+### Etiqueta
+
+Una etiqueta es una categoría o valor objetivo que se asigna a una entrada. Los datos etiquetados son datos que han sido etiquetados con una clase o valor objetivo.
+
+### Evento
+
+Un evento es una ocurrencia o un resultado que se puede observar o medir.
+
+### Exactitud
+
+La exactitud es una medida del rendimiento de un modelo de clasificación. Es la fracción de las predicciones correctas. Sin embargo, la exactitud pura y dura no es siempre una buena medida del rendimiento del modelo.
+
+### Excepciones
+
+Las excepciones son errores que se producen durante la ejecución de un programa.
+
+### Experiencia
+
+La experiencia es el conocimiento o la habilidad que se adquiere a través de la práctica o la exposición.
+
+### Factorización de matrices
+
+La factorización de matrices es una técnica de álgebra lineal que se utiliza para descomponer una matriz en un producto de matrices.
+
+### Falsos negativos
+
+Los falsos negativos ocurren cuando el modelo predice que algo es falso cuando en realidad es verdadero.
+
+### Falsos positivos
+
+Los falsos positivos ocurren cuando el modelo predice que algo es verdadero cuando en realidad es falso.
+
+### Características
+
+Las características son las variables de entrada que se utilizan para construir un modelo de aprendizaje automático.
+
+### Filtrado colaborativo
+
+El filtrado colaborativo es una técnica utilizada para hacer recomendaciones basadas en las preferencias de otros usuarios.
+
+### Filtrado colaborativo basado en artículos
+
+El filtrado colaborativo basado en artículos es un tipo de filtrado colaborativo que realiza recomendaciones basándose en la similitud entre los artículos.
+
+### Filtrado colaborativo basado en usuarios
+
+El filtrado colaborativo basado en usuarios es un tipo de filtrado colaborativo que realiza recomendaciones basándose en la similitud entre los usuarios. Por ejemplo, si a dos usuarios les gusta la misma película, el sistema recomendará otras películas que hayan gustado al primer usuario al segundo.
+
+### Flujo de control
+
+El flujo de control se refiere al orden en que se ejecutan las instrucciones en un programa. Se puede controlar utilizando sentencias condicionales (como if/else) y bucles (como for y while).
+
+### Función
+
+Una función es un bloque de código que realiza una tarea específica. Las funciones se utilizan para encapsular código que se repite, mejorar la legibilidad del código y facilitar las pruebas.
+
+### Función de error
+
+Una función de error mide la diferencia entre los valores predichos por un modelo y los valores reales. Se utiliza en el descenso de gradiente para encontrar los parámetros del modelo que minimicen esta diferencia.
+
+### Función sigmoide
+
+La función sigmoide es una función matemática con forma de "S". Se utiliza en regresión logística para convertir una salida lineal en una probabilidad. A medida que su entrada crece positivamente, se acerca a 1; mientras que al decrecer negativamente, se acerca a 0.
+
+### Grafo
+
+Un grafo es una estructura de datos compuesta por un conjunto de nodos (o vértices) y un conjunto de aristas que conectan dichos nodos. Los grafos se utilizan para representar diferentes tipos de relaciones, como conexiones entre personas en una red social, rutas en mapas o dependencias en proyectos.
+
+### Ham
+
+En el contexto del filtrado de spam, ham se refiere a los mensajes que no son spam.
+
+### Hash
+
+Una función hash transforma una entrada (como una cadena o un archivo) en un valor hash. Estos valores se utilizan para crear índices o verificar la integridad de los datos.
+
+### Hiperplano
+
+Un hiperplano es un subespacio de un espacio dimensional que tiene una dimensión menos que el espacio original. Por ejemplo, en un espacio tridimensional, un hiperplano es un plano. En regresión logística y máquinas de vectores de soporte, la frontera de decisión entre clases es un hiperplano.
+
+### Histograma
+
+Un histograma es un gráfico que muestra la distribución de frecuencias de un conjunto de datos. Se crea dividiendo el rango de los datos en intervalos y contando el número de puntos de datos en cada intervalo.
+
+### HTML
+
+HTML significa "lenguaje de marcado de hipertexto". Es el lenguaje utilizado para crear páginas web. Los científicos de datos a veces necesitan extraer información de páginas web estructuradas con HTML.
+
+### Inferencia bayesiana
+
+La inferencia bayesiana es un método de inferencia estadística que utiliza el teorema de Bayes para actualizar las creencias sobre un evento a partir de nueva evidencia.
+
+### Intervalo de la unidad
+
+El intervalo de la unidad es el rango de números reales entre 0 y 1.
+
+### Iterador
+
+Un iterador es un objeto que produce una secuencia de valores. Se utiliza a menudo para recorrer elementos de estructuras de datos como listas o diccionarios.
+
+```markdown
+### JSON
+JSON significa "notación de objetos JavaScript". Es un formato de intercambio de datos ligero que se utiliza a menudo para enviar datos entre aplicaciones web. Los científicos de datos suelen trabajar con datos en formato JSON, y la biblioteca `json` de Python permite analizarlos.
+
+### Lenguaje de programación
+Un lenguaje de programación es un lenguaje formal que especifica un conjunto de instrucciones para crear programas de computadora. Ejemplos comunes incluyen Python, R, Java y C++. Python es especialmente popular en ciencia de datos por su versatilidad y numerosas bibliotecas.
+
+### Lista
+Una lista es una colección ordenada de elementos en la que se pueden almacenar diferentes tipos de datos y modificar sus elementos.
+
+### Máquina de vectores de soporte
+Una máquina de vectores de soporte es un algoritmo de aprendizaje supervisado que se utiliza para tareas de clasificación y regresión. Encuentra el hiperplano que maximiza el margen entre clases en los datos de entrenamiento.
+
+### MapReduce
+MapReduce es un modelo de programación utilizado para procesar grandes conjuntos de datos de manera distribuida. Consiste en dos operaciones principales: "map", que aplica una función a cada elemento de un conjunto de datos, y "reduce", que combina los resultados.
+
+### Matplotlib
+Matplotlib es una biblioteca de Python para crear visualizaciones estáticas, animadas e interactivas. Permite generar gráficos como líneas, barras, histogramas y gráficos de dispersión.
+
+### Media
+La media es el promedio de un conjunto de números, calculado sumando todos los valores y dividiendo por la cantidad total de elementos.
+
+### Mediana
+La mediana es el valor central de un conjunto de números ordenados.
+
+### Método
+Un método es una función asociada a un objeto que permite interactuar con él o modificar su estado.
+
+### Modelo
+Un modelo es una representación matemática de un sistema o proceso, utilizada para hacer predicciones o comprender el comportamiento del sistema.
+
+### Modelo lineal
+Un modelo lineal es aquel en el que la salida depende linealmente de la entrada. Se utiliza frecuentemente en tareas de regresión, como la predicción de precios o salarios.
+
+### Módulo
+Un módulo es un archivo que contiene definiciones en Python, como funciones, clases y variables, y se utiliza para organizar y reutilizar código.
+
+### Multiplicación de matrices
+La multiplicación de matrices es una operación matemática que combina dos matrices para producir una tercera. Se utiliza en transformaciones lineales, análisis de grafos y aprendizaje automático.
+
+### NamedTuple
+`NamedTuple` es una clase de Python que permite crear tuplas con campos nombrados, facilitando su legibilidad y comprensión.
+
+### NoSQL
+NoSQL es una categoría de sistemas de gestión de bases de datos que no siguen el modelo relacional tradicional. Son ideales para manejar datos no estructurados y de rápida evolución, como en formato JSON.
+
+### NumPy
+NumPy es una biblioteca de Python que ofrece soporte para matrices multidimensionales y numerosas funciones matemáticas de alto nivel para operar con ellas.
+
+### Objeto
+En programación orientada a objetos, un objeto es una entidad que encapsula datos y métodos para representarlos y manipularlos.
+
+### Optimización
+La optimización es el proceso de ajustar parámetros de un modelo para minimizar una función de error o maximizar una métrica de rendimiento.
+
+### Ordenar
+Ordenar es el proceso de organizar elementos en un orden específico. En Python, se utiliza la función `sorted` para generar una lista ordenada y el método `sort` para ordenar listas in situ.
+
+### Overfitting (Sobreajuste)
+El sobreajuste ocurre cuando un modelo se ajusta demasiado a los datos de entrenamiento y no generaliza bien para nuevos datos.
+
+### PageRank
+PageRank es un algoritmo desarrollado por Google para clasificar páginas web según la cantidad y calidad de los enlaces que las apuntan.
+
+### Paradoja de Simpson
+La paradoja de Simpson ocurre cuando una tendencia observada en varios grupos de datos desaparece o se invierte al combinar estos grupos.
+
+### Partición
+En los árboles de decisión, una partición es la división de datos en subconjuntos basados en valores de atributos específicos.
+
+### Perceptrón
+Un perceptrón es un tipo de red neuronal artificial utilizado para la clasificación binaria. Aprende un hiperplano lineal para separar dos clases.
+
+### Ponderación
+La ponderación asigna diferentes importancias a los puntos de datos en un análisis o modelo.
+
+### Probabilidad
+La probabilidad mide la posibilidad de que ocurra un evento.
+
+### Probabilidad condicional
+La probabilidad condicional mide la posibilidad de que ocurra un evento dado que otro evento ya ha ocurrido.
+
+### Procesamiento del lenguaje natural
+El procesamiento del lenguaje natural (PLN) analiza interacciones entre computadoras y el lenguaje humano. Incluye tareas como análisis de sentimientos, extracción de temas y traducción automática.
+
+### Programación orientada a objetos
+La programación orientada a objetos (POO) utiliza objetos para representar datos y métodos, promoviendo código modular y reutilizable.
+
+### Prueba A/B
+Una prueba A/B es un experimento controlado para comparar dos versiones de un producto o servicio y evaluar cuál tiene mejor desempeño.
+
+### Python
+Python es un lenguaje de programación versátil, conocido por su sintaxis clara y bibliotecas poderosas para la ciencia de datos, como NumPy, Pandas y scikit-learn.
+
+### Raspado web
+El raspado web es el proceso de extraer datos de sitios web, utilizando herramientas como Beautiful Soup o Scrapy.
+
+### Recuerdo
+El recuerdo es la proporción de instancias positivas identificadas correctamente por un modelo de clasificación.
+
+### Reducción de la dimensionalidad
+La reducción de la dimensionalidad simplifica datos al reducir el número de variables, mejorando el rendimiento del modelo y facilitando la visualización.
+
+### Regresión lineal
+La regresión lineal predice un valor numérico basándose en una o más variables de entrada, siendo útil para tareas como predecir precios o ingresos.
+
+### Regularización
+La regularización es una técnica para evitar sobreajuste en modelos, añadiendo penalizaciones a la función de error, como en la regresión ridge o lasso.
+
+### Relación lineal
+Una relación lineal entre dos variables puede representarse con una línea recta. Se mide con el coeficiente de correlación.
+
+### Series de tiempo
+Una serie de tiempo es una colección de datos indexados en el tiempo, como precios de acciones o datos meteorológicos.
+
+### Spam
+El spam es un correo no deseado enviado masivamente. Los clasificadores de spam buscan identificarlo basándose en características específicas.
+
+### SQL
+SQL (Structured Query Language) es un lenguaje de programación utilizado para gestionar y manipular bases de datos relacionales.
+
+### Subajuste
+El subajuste ocurre cuando un modelo es demasiado simple para capturar patrones en los datos, resultando en un mal rendimiento.
+
+### Suavizado
+El suavizado reduce el ruido en datos. En Naive Bayes, se utiliza para evitar asignar probabilidad cero a palabras desconocidas.
+
+### Teorema de Bayes
+El teorema de Bayes actualiza la probabilidad de una hipótesis basada en nueva evidencia, siendo fundamental en aprendizaje automático.
+
+### Término de error
+En modelos estadísticos, el término de error mide la diferencia entre los valores predichos y los reales.
+
+### Tokenizer
+Un tokenizer divide texto en palabras o tokens individuales, facilitando el análisis en procesamiento del lenguaje natural.
+
+### Tupla
+Una tupla es una colección ordenada e inmutable de elementos representada entre paréntesis en Python.
+
+### Underfitting (Subajuste):
+El underfitting es un fenómeno que se produce cuando un modelo de aprendizaje automático no puede aprender los patrones de los datos de entrenamiento y, por lo tanto, tiene un bajo rendimiento tanto en los datos de entrenamiento como en los datos de prueba. Ocurre cuando el modelo es demasiado simple para capturar la complejidad subyacente de los datos. [13]
+
+### Universo:
+En estadística y teoría de la probabilidad, el universo se refiere al conjunto completo de todos los elementos o individuos posibles que se están considerando. [5]
+
+### Valor atípico (outlier):
+Un valor atípico es un punto de datos que difiere significativamente de los otros puntos de datos del conjunto de datos. [14] Los valores atípicos pueden deberse a errores en los datos o pueden representar valores reales que son inusuales. Pueden influir en las estadísticas como la media y la desviación estándar.
+
+### Variable:
+Una variable es una cantidad que puede tomar diferentes valores. En el contexto de la ciencia de datos, una variable suele representar una característica o un atributo de un punto de datos.
+
+### Variable de confusión:
+Una variable de confusión es una variable que está relacionada tanto con la variable independiente como con la variable dependiente de un estudio. Puede llevar a conclusiones erróneas sobre la relación entre la variable independiente y la dependiente. [15]
+
+### Variables ficticias:
+Las variables ficticias son variables binarias que se utilizan para representar variables categóricas en un modelo estadístico. [16]
+
+### Varianza:
+En estadística, la varianza es una medida de la dispersión de los puntos de datos en un conjunto de datos. Es la media de las diferencias al cuadrado entre cada punto de datos y la media del conjunto de datos. [17] Una varianza alta indica que los datos están más dispersos, mientras que una varianza baja indica que los datos están más agrupados.
+
+### Vector:
+Un vector es una matriz unidimensional de números. En ciencia de datos, los vectores se utilizan a menudo para representar puntos de datos o características. [18]
+
+### Vecinos más cercanos (K-Nearest Neighbors):
+K-Nearest Neighbors (KNN) es un algoritmo de aprendizaje automático que se utiliza para clasificar o predecir puntos de datos basándose en la similitud con sus k vecinos más cercanos. [19, 20] Este algoritmo no realiza suposiciones sobre la distribución de los datos.
+
+### Zip:
+En Python, la función zip toma dos o más iterables (como listas o tuplas) y devuelve un iterador de tuplas, donde cada tupla contiene los elementos correspondientes de cada iterable. [12]
+```
