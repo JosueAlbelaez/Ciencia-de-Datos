@@ -90,7 +90,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 *  Comunidades y eventos de ciencia de datos.
 
 ## PREGUNTAS PARA ENTREVISTA - CIENCIA DE DATOS
-   ### NIVEL INICIAL
+   ### [NIVEL INICIAL](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-inicial)
          1. ¿Qué es la ciencia de datos y cuál es su objetivo principal?
          2. ¿Cuáles son las principales diferencias entre datos estructurados y no estructurados?
          3. ¿Qué es Python y por qué es tan popular en ciencia de datos?
@@ -101,7 +101,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          8. ¿Qué es una matriz de correlación y para qué se utiliza?
          9. ¿Qué es el machine learning supervisado y no supervisado?
          10. ¿Qué es cross-validation y por qué es importante?
-   ### NIVEL INTERMEDIO
+   ### [NIVEL INTERMEDIO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-intermedio)
          11. ¿Qué es la maldición de la dimensionalidad y cómo afecta al machine learning?
          12. ¿Qué es regularización y cuáles son los tipos más comunes?
          13. Explique la diferencia entre bagging y boosting.
@@ -112,7 +112,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          18. ¿Qué es el gradient descent y cuáles son sus variantes principales?
          19. ¿Qué es feature engineering y por qué es importante?
          20. ¿Qué es una función de activación en redes neuronales y cuáles son las más comunes?
-   ### NIVEL AVANZADO
+   ### [NIVEL AVANZADO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-avanzado)
          21. ¿Cómo funciona el algoritmo XGBoost y por qué es tan efectivo?
          22. Explique el concepto de attention en deep learning y sus aplicaciones.
          23. ¿Qué son las redes neuronales convolucionales (CNN) y cómo funcionan?
