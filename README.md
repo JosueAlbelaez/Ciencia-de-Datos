@@ -31,33 +31,33 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 * Funciones: definición, argumentos y retorno de valores.
 * Módulos y paquetes importantes para la ciencia de datos: NumPy, Pandas, Matplotlib.
 *  Nociones de programación orientada a objetos.
-### [(#capítulo-3-visualización-de-datos)](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-3-visualizaci%C3%B3n-de-datos-1)
+### [Capítulo-3-visualización-de-datos](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-3-visualizaci%C3%B3n-de-datos-1)
 * Importancia de la visualización para la exploración y comunicación de datos.
 *  Librerías de visualización en Python: Matplotlib, Seaborn.
 * Tipos de gráficos: histogramas, gráficos de barras, gráficos de líneas, diagramas de dispersión.
 *  Personalización de gráficos: títulos, etiquetas, leyendas, colores.
 *  Creación de visualizaciones informativas y atractivas.
-### [Capítulo 4: Álgebra Lineal Esencial](#capítulo-4-álgebra-lineal-esencial)
+### [Capítulo 4: Álgebra Lineal Esencial](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-4-%C3%A1lgebra-lineal-esencial-1)
 *  Vectores: representación, operaciones básicas, norma.
 *  Matrices: representación, operaciones básicas, transpuesta, inversa.
 *  Aplicaciones del álgebra lineal en la ciencia de datos: regresión lineal, aprendizaje automático.
-### [Capítulo 5: Estadística Descriptiva e Inferencial](#capítulo-5-estadística-descriptiva-e-inferencial)
+### [Capítulo 5: Estadística Descriptiva e Inferencial](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-5-estad%C3%ADstica-descriptiva-e-inferencial-1)
 * Medidas de tendencia central: media, mediana, moda.
 * Medidas de dispersión: rango, varianza, desviación estándar.
 * Correlación y covarianza.
 * Distribuciones de probabilidad: normal, binomial, Poisson.
 *  Inferencia estadística: pruebas de hipótesis, intervalos de confianza.
 *  El problema de la ética en el análisis de datos.
-### [Capítulo 6: Probabilidad](#capítulo-6-probabilidad)
+### [Capítulo 6: Probabilidad](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-6-probabilidad-1)
 * Conceptos básicos de probabilidad: eventos, espacio muestral, probabilidad condicional.
 * Teorema de Bayes y su aplicación en la ciencia de datos.
 *  Variables aleatorias y distribuciones de probabilidad.
-### [Capítulo 7: Aprendizaje Automático (Machine Learning)](#capítulo-7-aprendizaje-automático-machine-learning)
+### [Capítulo 7: Aprendizaje Automático (Machine Learning)](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-7-aprendizaje-autom%C3%A1tico-machine-learning-1)
 * ¿Qué es el aprendizaje automático?
 * Tipos de aprendizaje automático: supervisado, no supervisado.
 *  Conceptos clave: entrenamiento, prueba, sobreajuste, validación cruzada.
 * Métricas de evaluación: precisión, exhaustividad, F1-score.
-### [Capítulo 8: Algoritmos de Aprendizaje Automático](#capítulo-8-algoritmos-de-aprendizaje-automático)
+### [Capítulo 8: Algoritmos de Aprendizaje Automático](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-8-algoritmos-de-aprendizaje-autom%C3%A1tico-1)
 * **Algoritmos Supervisados**:
     * Regresión Lineal: simple y múltiple.
     * Regresión Logística.
@@ -66,22 +66,22 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 * **Algoritmos No Supervisados**:
     * K-Means.
     * Análisis de Componentes Principales (PCA).
-### [Capítulo 9: Obtención y Preparación de Datos](#capítulo-9-obtención-y-preparación-de-datos)
+### [Capítulo 9: Obtención y Preparación de Datos](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-9-obtenci%C3%B3n-y-preparaci%C3%B3n-de-datos-1)
 * Fuentes de datos: bases de datos, archivos, APIs, web scraping.
 *  Librerías para la manipulación de datos en Python: Pandas.
 * Limpieza de datos: manejo de valores faltantes, valores atípicos, inconsistencias. 
 *  Transformación de datos: codificación de variables categóricas, normalización, estandarización.
-### [Capítulo 10: Ingeniería de Características](#capítulo-10-ingeniería-de-características)
+### [Capítulo 10: Ingeniería de Características](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-10-ingenier%C3%ADa-de-caracter%C3%ADsticas-1)
 * ¿Qué es la ingeniería de características?
 *  Extracción de características a partir de datos sin procesar.
 *  Selección de características relevantes para el modelo.
 *  Técnicas de reducción de dimensionalidad.
 * El proceso de la ingeniería de características.
-### [Capítulo 11: Deep Learning (Aprendizaje Profundo)](#capítulo-11-deep-learning-aprendizaje-profundo)
+### [Capítulo 11: Deep Learning (Aprendizaje Profundo)](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-11-deep-learning-aprendizaje-profundo-1)
 * Introducción al deep learning.
 * Redes neuronales: perceptrones, redes neuronales convolucionales, redes neuronales recurrentes.
 * Frameworks de deep learning: TensorFlow, PyTorch.
-### [Capítulo 12: Ética en la Ciencia de Datos](#capítulo-12-ética-en-la-ciencia-de-datos)
+### [Capítulo 12: Ética en la Ciencia de Datos](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-12-%C3%A9tica-en-la-ciencia-de-datos-1)
 *  Sesgos en los datos y cómo mitigarlos.
 *  Privacidad y seguridad de los datos.
 *  Uso responsable de la ciencia de datos.
