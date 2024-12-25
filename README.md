@@ -91,8 +91,108 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 
 ## PREGUNTAS PARA ENTREVISTA - CIENCIA DE DATOS
    ### NIVEL INICIAL
+         1. ¿Qué es la ciencia de datos y cuál es su objetivo principal?
+         2. ¿Cuáles son las principales diferencias entre datos estructurados y no estructurados?
+         3. ¿Qué es Python y por qué es tan popular en ciencia de datos?
+         4. ¿Qué son las variables categóricas y numéricas?
+         5. ¿Qué es el preprocesamiento de datos y por qué es importante?
+         6. Explique qué es un outlier y cómo puede afectar al análisis.
+         7. ¿Qué es la media, mediana y moda? ¿Cuándo usar cada una?
+         8. ¿Qué es una matriz de correlación y para qué se utiliza?
+         9. ¿Qué es el machine learning supervisado y no supervisado?
+         10. ¿Qué es cross-validation y por qué es importante?
    ### NIVEL INTERMEDIO
+         11. ¿Qué es la maldición de la dimensionalidad y cómo afecta al machine learning?
+         12. ¿Qué es regularización y cuáles son los tipos más comunes?
+         13. Explique la diferencia entre bagging y boosting.
+         14. ¿Qué son los hiperparámetros y cómo se optimizan?
+         15. ¿Qué es el error cuadrático medio (MSE) y por qué se usa frecuentemente?
+         16. Explique qué es una matriz de confusión y las métricas derivadas de ella.
+         17. ¿Qué es el teorema de Bayes y cómo se aplica en machine learning?
+         18. ¿Qué es el gradient descent y cuáles son sus variantes principales?
+         19. ¿Qué es feature engineering y por qué es importante?
+         20. ¿Qué es una función de activación en redes neuronales y cuáles son las más comunes?
    ### NIVEL AVANZADO
+         21. ¿Cómo funciona el algoritmo XGBoost y por qué es tan efectivo?
+         22. Explique el concepto de attention en deep learning y sus aplicaciones.
+         23. ¿Qué son las redes neuronales convolucionales (CNN) y cómo funcionan?
+         24. ¿Cómo se aborda el problema de class imbalance en machine learning?
+         25. Explique cómo funciona LSTM y por qué es efectiva para secuencias largas.
+         26. ¿Qué es transfer learning y cuándo es apropiado usarlo?
+         27. ¿Cómo se implementa la recomendación a escala en sistemas reales?
+         28. Explique el concepto de causalidad en machine learning y sus implicaciones.
+         29. ¿Cómo se manejan datasets que no caben en memoria?
+         30. Explique el concepto de embeddings y sus aplicaciones principales.
+         31. ¿Qué es AutoML y cuáles son sus limitaciones actuales?
+         32. ¿Cómo se aborda el problema de concept drift en modelos productivos?
+         33. ¿Qué son los Variational Autoencoders (VAE) y cuál es su utilidad?
+         34. ¿Cómo se implementa A/B testing en un entorno de producción real?
+         35. ¿Qué estrategias se utilizan para desarrollar modelos robustos a adversarial attacks?
+         36. Explique el concepto de Optimal Transport y sus aplicaciones en machine learning.
+         37. ¿Cómo se implementa feature selection en datasets con alta dimensionalidad y multicolinealidad?
+         38. ¿Qué son las Gaussian Processes y cuándo son preferibles a otros métodos de regresión?
+         39. Explique las técnicas de quantization en deep learning y sus implicaciones.
+         40. ¿Cómo se implementa machine learning en sistemas con recursos limitados (edge computing)?
+         41. ¿Qué son las redes neuronales gráficas (GNN) y cuáles son sus aplicaciones principales?
+         42. Explique el concepto de Few-Shot Learning y sus metodologías principales.
+         43. ¿Cómo se implementa y optimiza un sistema de búsqueda semántica a gran escala?
+         44. ¿Qué es Zero-Shot Learning y cómo se relaciona con los modelos de lenguaje grandes?
+         45. ¿Cómo se implementa la detección y mitigación de sesgos en modelos de ML?
+         46. ¿Qué son las arquitecturas de transformador y cómo han evolucionado desde el paper "Attention is All You Need"?
+         47. Explique cómo funcionan los métodos de causalidad moderna en ML y sus aplicaciones prácticas.
+         48. ¿Cómo se implementa una arquitectura de ML que garantice equidad y transparencia?
+         49. ¿Cuáles son las técnicas actuales para el aprendizaje continuo (continual learning) en sistemas de producción?
+         50. ¿Cómo se diseña e implementa un sistema de ML que sea robusto a distributional shift?
+         51. ¿Cómo se implementa y escala un sistema de recomendación multi-stakeholder que optimiza para múltiples objetivos?
+         52. ¿Qué son los Neural Ordinary Differential Equations (Neural ODEs) y cuáles son sus aplicaciones?
+         53. ¿Cómo se implementa un sistema robusto de ML monitoring en producción?
+         54. Explique el concepto de Normalizing Flows y sus aplicaciones en modelos generativos.
+         55. ¿Cómo se implementa un sistema de ML que sea energy-efficient y environmentally sustainable?
+         56. ¿Qué son los modelos de difusión y cómo funcionan?
+         57. ¿Cómo se implementa un sistema de ML que pueda aprender de feedback implícito?
+         58. ¿Qué son los Momentum Transformers y cómo mejoran sobre los transformers tradicionales?
+         59. ¿Cómo se implementa un sistema de detección de anomalías que sea interpretable y adaptativo?
+         60. ¿Cómo se diseña un sistema de ML que pueda manejar eficientemente datos multimodales?
+         61. ¿Qué son los Neural Radiance Fields (NeRF) y cómo funcionan?
+         62. ¿Cómo se implementa un sistema robusto de feature store para ML en producción?
+         63. Explique cómo funcionan los Neural Algorithmic Reasoning y sus aplicaciones.
+         64. ¿Cómo se diseña un sistema de ML que maneje eficientemente computational graphs dinámicos?
+         65. ¿Qué son los Mixture of Experts (MoE) models y cómo se implementan eficientemente?
+         66. ¿Cómo se implementa self-supervised learning para computer vision?
+         67. ¿Qué técnicas se utilizan para hacer modelos de ML robustos a adversarial attacks en tiempo real?
+         68. ¿Cómo se implementa un sistema de active learning que optimiza el costo de etiquetado?
+         69. ¿Qué son los Hierarchical Transformers y cómo mejoran el procesamiento de secuencias largas?
+         70. ¿Cómo se implementa un sistema de ML que pueda aprender continuamente de streams de datos no estacionarios?
+         71. ¿Cómo se implementa un sistema de ML para procesamiento de grafos dinámicos?
+         72. Explique cómo funciona Neural Architecture Search (NAS) y sus implementaciones modernas.
+         73. ¿Cómo se implementa un sistema de ML que optimice automáticamente su propia infraestructura?
+         74. ¿Qué son los Neural State Machines y cómo se utilizan en ML?
+         75. ¿Cómo se diseña un sistema de ML que aprenda eficientemente de datos multiview?
+         76. ¿Cómo se implementa few-shot learning en computer vision utilizando meta-learning?
+         77. ¿Cómo se diseña un sistema de ML que optimice latencia y throughput en serving?
+         78. ¿Qué son los Neural Databases y cómo se implementan?
+         79. ¿Cómo se implementa un sistema de ML que sea robusto a covariate shift?
+         80. ¿Cómo se diseña un sistema de predicción que maneje eficientemente incertidumbre epistémica y aleatoria?
+         81. ¿Cómo se implementa un sistema de ML para aprendizaje por refuerzo offline?
+         82. ¿Qué son los Neural Operators y cuándo se utilizan?
+         83. ¿Cómo se implementa un sistema de ML para procesamiento de datos estructurados heterogéneos?
+         84. ¿Cómo se diseña un sistema de ML que optimice automáticamente su propia topología?
+         85. ¿Cómo se implementa un sistema robusto de monitoring para concept drift multivaariado?
+         86. ¿Cómo se implementa un sistema de ML para aprendizaje de representaciones causales?
+         87. ¿Cómo se diseña un sistema de ML para procesamiento de datos multi-resolution?
+         88. ¿Qué son los Neural Fields y cómo se implementan eficientemente?
+         89. ¿Cómo se implementa un sistema de ML robusto a long-tail distributions?
+         90. ¿Cómo se diseña un sistema de ML que optimice automáticamente su propia data augmentation?
+         91. ¿Cómo se implementa zero-shot cross-lingual transfer en modelos de lenguaje?
+         92. ¿Qué son los Sparse Mixture of Experts y cómo se implementan eficientemente?
+         93. ¿Cómo se implementa un sistema de ML para few-shot semantic segmentation?
+         94. ¿Cómo se diseña un sistema de ML para aprendizaje continuo sin catastrophic forgetting?
+         95. ¿Cómo se implementa un sistema de ML para modelado de interacciones físicas complejas?
+         96. ¿Cómo se implementa un sistema de ML para procesamiento de datos con dependencias temporales complejas?
+         97. ¿Cómo se diseña un sistema de ML que optimice automáticamente su propia función de pérdida?
+         98. ¿Qué son los Implicit Neural Representations y cuándo se utilizan?
+         99. ¿Cómo se implementa un sistema de ML que aprenda y razone sobre relaciones causales complejas?
+         100. ¿Cómo se diseña un sistema de ML que aprenda de múltiples tareas relacionadas de manera eficiente?
 
 ## GLOSARIO CON 100 TÉRMINOS BÁSICOS
 ___________________________________________________________________________________________________________________
@@ -1446,7 +1546,7 @@ Este apéndice proporciona una selección de recursos para quienes deseen profun
 Este apéndice proporciona un punto de partida para ampliar conocimientos, encontrar soporte en la comunidad y participar en proyectos que fomenten el aprendizaje continuo.
 _____________________________________________________________________________________________________________________________________________________
 
-###NIVEL JUNIOR
+### NIVEL INICIAL
 
 **1. ¿Qué es la ciencia de datos y cuál es su objetivo principal?**
 R: La ciencia de datos es un campo interdisciplinario que utiliza métodos científicos, procesos, algoritmos y sistemas para extraer conocimiento y insights de datos estructurados y no estructurados. Su objetivo principal es ayudar a la toma de decisiones mediante el análisis de datos, combinando estadística, matemáticas, programación y conocimiento del dominio específico del problema.
@@ -1478,7 +1578,7 @@ R: El aprendizaje supervisado utiliza datos etiquetados para entrenar modelos qu
 **10. ¿Qué es cross-validation y por qué es importante?**
 R: Cross-validation es una técnica para evaluar modelos dividiendo los datos en múltiples conjuntos de entrenamiento y validación. Ayuda a detectar overfitting y proporciona una estimación más robusta del rendimiento del modelo en datos nuevos. La técnica más común es k-fold cross-validation, donde los datos se dividen en k partes y se realizan k iteraciones de entrenamiento y validación.
 
-###NIVEL INTERMEDIO
+### NIVEL INTERMEDIO
 
 **11. ¿Qué es la maldición de la dimensionalidad y cómo afecta al machine learning?**
 R: La maldición de la dimensionalidad se refiere al fenómeno donde los datos se vuelven más dispersos a medida que aumenta el número de dimensiones. Esto dificulta encontrar patrones significativos, requiere exponencialmente más datos para el entrenamiento y puede llevar a overfitting. Se puede abordar mediante técnicas de reducción de dimensionalidad como PCA o selección de características.
@@ -1548,7 +1648,7 @@ R: Una función de activación introduce no linealidad en las redes neuronales, 
 - Tanh: similar a sigmoid pero mapea a (-1,1)
 - Softmax: normaliza outputs a probabilidades que suman 1, común en clasificación multiclase
 
-###NIVEL AVANZADO
+### NIVEL AVANZADO
 
 **21. ¿Cómo funciona el algoritmo XGBoost y por qué es tan efectivo?**
 R: XGBoost es un algoritmo de gradient boosting que construye árboles de decisión secuencialmente para minimizar una función de pérdida. Es efectivo por:
