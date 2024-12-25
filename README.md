@@ -2241,7 +2241,6 @@ El intervalo de la unidad es el rango de números reales entre 0 y 1.
 
 Un iterador es un objeto que produce una secuencia de valores. Se utiliza a menudo para recorrer elementos de estructuras de datos como listas o diccionarios.
 
-```markdown
 ### JSON
 JSON significa "notación de objetos JavaScript". Es un formato de intercambio de datos ligero que se utiliza a menudo para enviar datos entre aplicaciones web. Los científicos de datos suelen trabajar con datos en formato JSON, y la biblioteca `json` de Python permite analizarlos.
 
@@ -2381,32 +2380,32 @@ Un tokenizer divide texto en palabras o tokens individuales, facilitando el aná
 Una tupla es una colección ordenada e inmutable de elementos representada entre paréntesis en Python.
 
 ### Underfitting (Subajuste):
-El underfitting es un fenómeno que se produce cuando un modelo de aprendizaje automático no puede aprender los patrones de los datos de entrenamiento y, por lo tanto, tiene un bajo rendimiento tanto en los datos de entrenamiento como en los datos de prueba. Ocurre cuando el modelo es demasiado simple para capturar la complejidad subyacente de los datos. [13]
+El underfitting es un fenómeno que se produce cuando un modelo de aprendizaje automático no puede aprender los patrones de los datos de entrenamiento y, por lo tanto, tiene un bajo rendimiento tanto en los datos de entrenamiento como en los datos de prueba. Ocurre cuando el modelo es demasiado simple para capturar la complejidad subyacente de los datos. 
 
 ### Universo:
-En estadística y teoría de la probabilidad, el universo se refiere al conjunto completo de todos los elementos o individuos posibles que se están considerando. [5]
+En estadística y teoría de la probabilidad, el universo se refiere al conjunto completo de todos los elementos o individuos posibles que se están considerando. 
 
 ### Valor atípico (outlier):
-Un valor atípico es un punto de datos que difiere significativamente de los otros puntos de datos del conjunto de datos. [14] Los valores atípicos pueden deberse a errores en los datos o pueden representar valores reales que son inusuales. Pueden influir en las estadísticas como la media y la desviación estándar.
+Un valor atípico es un punto de datos que difiere significativamente de los otros puntos de datos del conjunto de datos. Los valores atípicos pueden deberse a errores en los datos o pueden representar valores reales que son inusuales. Pueden influir en las estadísticas como la media y la desviación estándar.
 
 ### Variable:
 Una variable es una cantidad que puede tomar diferentes valores. En el contexto de la ciencia de datos, una variable suele representar una característica o un atributo de un punto de datos.
 
 ### Variable de confusión:
-Una variable de confusión es una variable que está relacionada tanto con la variable independiente como con la variable dependiente de un estudio. Puede llevar a conclusiones erróneas sobre la relación entre la variable independiente y la dependiente. [15]
+Una variable de confusión es una variable que está relacionada tanto con la variable independiente como con la variable dependiente de un estudio. Puede llevar a conclusiones erróneas sobre la relación entre la variable independiente y la dependiente. 
 
 ### Variables ficticias:
-Las variables ficticias son variables binarias que se utilizan para representar variables categóricas en un modelo estadístico. [16]
+Las variables ficticias son variables binarias que se utilizan para representar variables categóricas en un modelo estadístico. 
 
 ### Varianza:
-En estadística, la varianza es una medida de la dispersión de los puntos de datos en un conjunto de datos. Es la media de las diferencias al cuadrado entre cada punto de datos y la media del conjunto de datos. [17] Una varianza alta indica que los datos están más dispersos, mientras que una varianza baja indica que los datos están más agrupados.
+En estadística, la varianza es una medida de la dispersión de los puntos de datos en un conjunto de datos. Es la media de las diferencias al cuadrado entre cada punto de datos y la media del conjunto de datos. Una varianza alta indica que los datos están más dispersos, mientras que una varianza baja indica que los datos están más agrupados.
 
 ### Vector:
-Un vector es una matriz unidimensional de números. En ciencia de datos, los vectores se utilizan a menudo para representar puntos de datos o características. [18]
+Un vector es una matriz unidimensional de números. En ciencia de datos, los vectores se utilizan a menudo para representar puntos de datos o características. 
 
 ### Vecinos más cercanos (K-Nearest Neighbors):
-K-Nearest Neighbors (KNN) es un algoritmo de aprendizaje automático que se utiliza para clasificar o predecir puntos de datos basándose en la similitud con sus k vecinos más cercanos. [19, 20] Este algoritmo no realiza suposiciones sobre la distribución de los datos.
+K-Nearest Neighbors (KNN) es un algoritmo de aprendizaje automático que se utiliza para clasificar o predecir puntos de datos basándose en la similitud con sus k vecinos más cercanos. Este algoritmo no realiza suposiciones sobre la distribución de los datos.
 
 ### Zip:
-En Python, la función zip toma dos o más iterables (como listas o tuplas) y devuelve un iterador de tuplas, donde cada tupla contiene los elementos correspondientes de cada iterable. [12]
-```
+En Python, la función zip toma dos o más iterables (como listas o tuplas) y devuelve un iterador de tuplas, donde cada tupla contiene los elementos correspondientes de cada iterable. 
+
