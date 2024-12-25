@@ -90,6 +90,9 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 *  Comunidades y eventos de ciencia de datos.
 
 ## PREGUNTAS PARA ENTREVISTA - CIENCIA DE DATOS
+   ### NIVEL INICIAL
+   ### NIVEL INTERMEDIO
+   ### NIVEL AVANZADO
 
 ## GLOSARIO CON 100 TÉRMINOS BÁSICOS
 ___________________________________________________________________________________________________________________
