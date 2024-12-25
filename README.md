@@ -23,7 +23,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 * Aplicaciones de la ciencia de datos en diversos campos.
 * El proceso de la ciencia de datos: desde la formulación de preguntas hasta la comunicación de resultados. 
 *  **Hipótesis motivadora: DataSciencester**, una red social ficticia para científicos de datos que se usará para plantear ejemplos y ejercicios.
-### [Capítulo 2: Fundamentos de Python para Ciencia de Datos](#capítulo-2-fundamentos-de-python-para-ciencia-de-datos)
+### [Capítulo 2: Fundamentos de Python para Ciencia de Datos](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-2-fundamentos-de-python-para-ciencia-de-datos-1)
 *  Instalación y configuración del entorno de trabajo.
 * Tipos de datos básicos: números, cadenas, booleanos.
 * Estructuras de datos esenciales: listas, tuplas, diccionarios, conjuntos.
@@ -31,7 +31,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 * Funciones: definición, argumentos y retorno de valores.
 * Módulos y paquetes importantes para la ciencia de datos: NumPy, Pandas, Matplotlib.
 *  Nociones de programación orientada a objetos.
-### [Capítulo 3: Visualización de Datos](#capítulo-3-visualización-de-datos)
+### [(#capítulo-3-visualización-de-datos)](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-3-visualizaci%C3%B3n-de-datos-1)
 * Importancia de la visualización para la exploración y comunicación de datos.
 *  Librerías de visualización en Python: Matplotlib, Seaborn.
 * Tipos de gráficos: histogramas, gráficos de barras, gráficos de líneas, diagramas de dispersión.
