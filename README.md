@@ -85,7 +85,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 *  Sesgos en los datos y cómo mitigarlos.
 *  Privacidad y seguridad de los datos.
 *  Uso responsable de la ciencia de datos.
-### [Apéndice: Recursos Adicionales](#apéndice-recursos-adicionales)
+### [Apéndice: Recursos Adicionales](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#ap%C3%A9ndice-recursos-adicionales-1)
 *  Libros, cursos y sitios web recomendados para profundizar en la ciencia de datos.
 *  Comunidades y eventos de ciencia de datos.
 
@@ -1346,7 +1346,7 @@ La ética en la ciencia de datos es crucial para garantizar que los análisis, m
 
 ---
 
-### Reflexión final  
+#### Reflexión final  
 
 Este capítulo resalta la importancia de la ética en la ciencia de datos para garantizar que los modelos y análisis generen valor, respeten la privacidad y promuevan la justicia. Incorporar principios éticos desde el inicio del proyecto es esencial para construir soluciones sostenibles y responsables.
 
