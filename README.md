@@ -90,7 +90,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 *  Comunidades y eventos de ciencia de datos.
 
 ## PREGUNTAS PARA ENTREVISTA - CIENCIA DE DATOS
-   ### [NIVEL INICIAL](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-inicial)
+   ### [NIVEL INICIAL](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-inicial-1)
          1. ¿Qué es la ciencia de datos y cuál es su objetivo principal?
          2. ¿Cuáles son las principales diferencias entre datos estructurados y no estructurados?
          3. ¿Qué es Python y por qué es tan popular en ciencia de datos?
@@ -101,7 +101,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          8. ¿Qué es una matriz de correlación y para qué se utiliza?
          9. ¿Qué es el machine learning supervisado y no supervisado?
          10. ¿Qué es cross-validation y por qué es importante?
-   ### [NIVEL INTERMEDIO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-intermedio)
+   ### [NIVEL INTERMEDIO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-intermedio-1)
          11. ¿Qué es la maldición de la dimensionalidad y cómo afecta al machine learning?
          12. ¿Qué es regularización y cuáles son los tipos más comunes?
          13. Explique la diferencia entre bagging y boosting.
@@ -112,7 +112,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          18. ¿Qué es el gradient descent y cuáles son sus variantes principales?
          19. ¿Qué es feature engineering y por qué es importante?
          20. ¿Qué es una función de activación en redes neuronales y cuáles son las más comunes?
-   ### [NIVEL AVANZADO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-avanzado)
+   ### [NIVEL AVANZADO](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#nivel-avanzado-1)
          21. ¿Cómo funciona el algoritmo XGBoost y por qué es tan efectivo?
          22. Explique el concepto de attention en deep learning y sus aplicaciones.
          23. ¿Qué son las redes neuronales convolucionales (CNN) y cómo funcionan?
@@ -194,7 +194,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          99. ¿Cómo se implementa un sistema de ML que aprenda y razone sobre relaciones causales complejas?
          100. ¿Cómo se diseña un sistema de ML que aprenda de múltiples tareas relacionadas de manera eficiente?
 
-## [GLOSARIO CON 100 TÉRMINOS BÁSICOS](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#glosario-con-100-t%C3%A9rminos-b%C3%A1sicos)
+## [GLOSARIO CON 100 TÉRMINOS BÁSICOS](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#glosario)
 ___________________________________________________________________________________________________________________
 ### Capítulo 1: Introducción a la Ciencia de Datos  
 
