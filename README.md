@@ -4,7 +4,7 @@ Este repositorio es una recopilación exhaustiva de conocimientos sobre ciencia 
 - **Capítulos detallados:** Explicaciones claras de conceptos fundamentales, algoritmos, y técnicas avanzadas.  
 - **Resúmenes:** Puntos clave para un aprendizaje rápido y eficiente.  
 - **Preguntas de entrevistas:** Una colección de preguntas frecuentes y desafiantes para prepararte para entrevistas técnicas en ciencia de datos y Machine Learning.  
-- **Glosario:** Definiciones concisas de términos esenciales en ciencia de datos, estadísticas y aprendizaje automático.  
+- **GLOSARIO CON 100 TÉRMINOS BÁSICOS:** Definiciones concisas de términos esenciales en ciencia de datos, estadísticas y aprendizaje automático.  
 Este repositorio busca ser un recurso útil para el aprendizaje, la preparación profesional y el desarrollo continuo en ciencia de datos.   
 **Cómo contribuir:**  
 Contribuciones son bienvenidas. Puedes sugerir ejemplos, correcciones o nuevos términos al glosario, o sugerir preguntas para la sección de entrevistas.  
@@ -194,7 +194,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
          99. ¿Cómo se implementa un sistema de ML que aprenda y razone sobre relaciones causales complejas?
          100. ¿Cómo se diseña un sistema de ML que aprenda de múltiples tareas relacionadas de manera eficiente?
 
-## GLOSARIO CON 100 TÉRMINOS BÁSICOS
+## [GLOSARIO CON 100 TÉRMINOS BÁSICOS](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#glosario-con-100-t%C3%A9rminos-b%C3%A1sicos)
 ___________________________________________________________________________________________________________________
 ### Capítulo 1: Introducción a la Ciencia de Datos  
 
