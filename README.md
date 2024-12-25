@@ -17,7 +17,7 @@ Este repositorio está disponible bajo la licencia [MIT](https://opensource.org/
 # **INDICE**
 
 ## **Resumen**
-### [Capítulo 1: Introducción a la Ciencia de Datos](#capítulo-1-introducción-a-la-ciencia-de-datos)
+### [Capítulo 1: Introducción a la Ciencia de Datos]([#capítulo-1-introducción-a-la-ciencia-de-datos](https://github.com/JosueAlbelaez/Ciencia-de-Datos/blob/main/README.md#cap%C3%ADtulo-1-introducci%C3%B3n-a-la-ciencia-de-datos-1))
 * ¿Qué es la ciencia de datos?
 * El auge de los datos y su importancia.
 * Aplicaciones de la ciencia de datos en diversos campos.
